@@ -32,3 +32,8 @@ Notes:
 - Python 3.8+ recommended
 - Ensure all `.pkl` files are in the same directory as `app.py`
 - This project uses Git LFS for large file tracking (on GitHub)
+
+
+run in CMD:
+direct to directory: cd path/Movie_recommrnder
+to run app.py: python -m streamlit run app.py
